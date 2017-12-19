@@ -15,5 +15,6 @@ BONUS CODES!!!
 4. readLOC_jsonM.py looks at tag data with a count greater than 100 and cleans up extraneous tags like 
     "sigh another album from my not dissipated enough youth"
 
-5. note_test.py looks at the amount of times hip-hop is used in the note field (as was suggested by my supervisor to
-    be more inclusive of the term in MARC records
+5. note_test.py looks at the amount of times hip-hop is used in the note field (as was suggested to
+    be more inclusive of the term in MARC records w/out using LCSH)
+    
