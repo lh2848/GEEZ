@@ -8,6 +8,8 @@
 3. found records cataloged as Rap (Music) in sound disc format via post_sift.py and post_sift2.py, 
     creating a new json dictionary to hold the results
 
+4. combined rap_results via combine_json.py
+
 BONUS CODES!!!
 
 4. readLOC_jsonM.py looks at tag data with a count greater than 100 and cleans up extraneous tags like 
